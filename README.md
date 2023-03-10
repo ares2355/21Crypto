@@ -13,7 +13,7 @@ pip install -r requirements.txt
 python3 userbot-21crypt.py
 ```
 ## <em>Environment variables:</em> 
-- API_HASH - хеш идентефикатор текущего пользователя 
-- API_ID - ID клиента
+- `API_HASH` - хеш идентефикатор текущего пользователя 
+- `API_ID` - ID клиента
 
 
